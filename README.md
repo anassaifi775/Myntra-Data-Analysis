@@ -1,12 +1,12 @@
 
 # Myntra Data Analysis
 
-This repository contains a Jupyter Notebook that performs an analysis of Myntra products data using Python and popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset used in this analysis is named "products.csv."
+This repository contains a Jupyter Notebook that performs an analysis of Myntra products data using Python and popular data analysis library Pandas. The dataset used in this analysis is named "products.csv."
 
 ### Setup
 Before running the code in the notebook, make sure you have the required libraries installed. If you don't have them, you can install them using pip:
 
-pip install pandas seaborn matplotlib
+pip install pandas
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ The dataset contains information about myntra products with their various inform
 - `rating`: Rating of the product.
 - `rating_count`: rating count of the product.
 - `marked_price`: Marked price of the product.
-- `discounted_price`: Discounted price of the product.
+- `discounted_price`: Discounted price of the product
   and various more 
 
 ## Data Cleaning
